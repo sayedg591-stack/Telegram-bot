@@ -14,7 +14,7 @@ from datetime import datetime
 from telegram_user_client import get_trader_data, telegram_client
 
 # Bot Configuration
-BOT_TOKEN = "8154735150:AAHSxoQvpHqVAlLUz6Y28b9mKhP-YTtUpEM"
+BOT_TOKEN = "8441476926:AAGWc1_v-BDSxx3yKUw0Dh6vbft5sVhLP9I"
 AFFILIATE_CODE = "348134_ad429428de0db361d06b"
 AFFILIATE_ID = "1709029"
 QUOTEX_SIGNUP_LINK = f"https://broker-qx.pro/sign-up/?lid={AFFILIATE_ID}"
